@@ -24,4 +24,4 @@ A machine learning project focused on predictive modeling and price valuation fo
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/abdullah-emad-ds/House-Sales-Price-Prediction-Regression.git](https://github.com/abdullah-emad-ds/House-Sales-Price-Prediction-Regression.git)
+   git clone [https://github.com/abdullah-emad-ds/House-Sales-Price-Prediction-Regression.git]
